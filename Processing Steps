@@ -1,0 +1,16 @@
+--------------------> Preprocess the datasets
+                -------------------->  Tabular 
+                -------------------->  Timeseries 
+
+ --------------------> Export Processed Dataset to .csv
+
+ --------------------> Standardize Dataset ## Do here or later if you wish to apply/test different methods 
+
+-------------------->TS Clusteirng 
+                --------------------> Without Approximation (No DTW)
+               --------------------> With PAA and SAX
+
+-------------------->TS Classification 
+               --------------------> KNN
+               --------------------> Shapelets
+
